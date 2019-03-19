@@ -1,0 +1,242 @@
+*
+{
+	margin:0;
+}
+.container
+{
+	height: auto;
+	width: auto;
+}
+.nav
+{
+	height: 100px;
+	width: 100%;
+	background: #eee;
+	box-shadow: 0px 0px 15px 0px darkblue;
+}
+.logo
+{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.menu
+{
+	height: 50px;
+	margin-top: 45px;
+	width: 91%;
+	float: left;
+	margin-left: 5px;
+}
+.menu ul
+{
+	margin-left: 40px;
+}
+.menu ul li
+{
+	float: left;
+	margin-left: 20px;
+	list-style-type: none;
+	font-size: 25px;
+	box-shadow: 3px 3px 3px #888888;
+    border-radius: 5px;
+}
+.menu ul li:hover
+{
+	background: #C2DFFF;
+	transition-duration:1s;
+}
+.menu ul li a
+{
+	text-decoration: none;
+	color: black;
+}
+
+.main
+{
+    height: 1500px;
+	width: 100%;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+.mainpic
+{
+	height: 500px;
+	width: 100%;
+	border:1px solid black;
+}
+.body
+{
+	height: 800px;
+	width: 100%;
+	border:1px solid black;
+}
+.p1
+{
+	height: 300px;
+	width: 20%;
+	border: 1px solid black;
+	float: left;
+	margin-left: 150px;
+	margin-top: 87px;
+}
+.p2
+{
+	height: 300px;
+	width: 20%;
+	border: 1px solid black;
+	float: left;
+	margin-left: 150px;
+	margin-top: 87px;
+}
+.p3
+{
+	height: 300px;
+	width: 20%;
+	border: 1px solid black;
+	float: left;
+	margin-left: 150px;
+	margin-top: 87px;
+}
+.footer
+{
+	height: 100px;
+	width: 100%;
+	border: 1px solid black;
+	margin-top: 5px;
+}
+
+.footer
+{
+  height: 300px;
+  width: 99.99%;
+  background-image: url("New-Item_Header.png");
+  background-position: center;
+  background-size: cover;
+  clear: both;
+  margin-top: 12px; 
+}
+.part1
+{
+  height: 170px;
+  width: 15%;
+  margin-top:34px;
+  margin-left: 7%;
+  float: left;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 5px;
+  font-family: Arial;
+}
+.part1 ul li a
+{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.part2 ul li a
+{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.part3 ul li a
+{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.part2
+{
+  height: 170px;
+  width: 20%x;
+  margin-top:34px;
+  margin-left: 7%;
+  float: left;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 5px;
+  font-family: Arial;
+}
+.part3
+{
+  height: 170px;
+  width: 21%;
+  margin-top:34px;
+  margin-left: 7%;
+  float: left;
+  color: black;
+  font-size: 22px;
+  margin-bottom: 5px;
+  font-family: Arial;
+}
+.map
+{
+  height: 200px;
+  width: 25%;
+  margin-top:20px;
+  margin-left: 1%;
+  float: left;
+  color: white;
+  text-align: center;
+  margin-bottom: 5px;
+  font-family: Arial;
+  font-size: 14px;
+}
+.address
+{
+  height: 199px;
+  width: 36%;
+  float: left;
+  color: black;
+}
+.mappic 
+{
+  height: 180px;
+  width: 60%;
+  float: left;
+  background: url('map.JPG');
+}
+.copyright
+{
+  clear: both;
+  height: 25px;
+  width: 500px;
+  margin-top: 20px;
+  margin-left: 400px;
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+.sociallogos
+{
+  clear: both;
+  height: 40px;
+  width: 20%;
+  margin-left: 48px;
+}
+.pic1
+{
+  float: left;
+  margin-left: 10px;
+}
+.pic1 img:hover
+{
+  box-shadow: 2px 2px 2px white;
+  height: 42px;
+  cursor: pointer;
+}
+.pic1 img
+{
+  height:40px;
+  width:40px;
+  border-radius: 20px;
+}
+.copyright
+{
+     height:18px;
+     width:600px;
+     color: white;
+     margin: auto;
+     text-align: center;
+}
